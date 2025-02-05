@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Patronus Labs
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Let's understand people and their decisions together
