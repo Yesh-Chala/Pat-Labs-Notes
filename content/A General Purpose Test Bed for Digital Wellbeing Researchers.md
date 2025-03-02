@@ -19,3 +19,5 @@ I feel this is essential for quicker progress in the field of digital wellbeing 
 2. ==Help researchers and me understand what kinds of device usage data and variables , digital device users are comfortable with sharing.== 
 
 I understand there is a lot to do with this, a structured user research phase, stakeholder reviews, finding interested developers and the biggest problems: funding and figuring out a single solution for all platforms, cause digital devices are wild and with various operating systems you need to various permissions and use various technologies, a lot of things to figure out, but also it'll be worth going through the effort. I think.
+
+[[ More Proofs that such a bed is required]]
