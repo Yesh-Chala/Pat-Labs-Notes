@@ -1,0 +1,1 @@
+because the internet can help you grow and express yourself to greater extents and if you spend all your time gratifying and distracting yourself, you'll not be able to become your fullest self. 

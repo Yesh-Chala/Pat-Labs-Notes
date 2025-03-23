@@ -1,1 +1,1 @@
-go here: [intntion.com](https://intntion.com)
+go here: [Intntion](https://intntion.com)

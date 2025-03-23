@@ -1,0 +1,3 @@
+- The [[need]] for intentionality.
+- [[An individual in the digital age]]
+- 
